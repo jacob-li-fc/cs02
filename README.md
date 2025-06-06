@@ -5,8 +5,6 @@ Security Foundations -
 SEC01-BP01 Separate workloads using accounts
 SEC01-BP02 Secure account root user and properties
 
-
-
 The exam has the following content domains and weightings: 
 • Domain 1: Threat Detection and Incident Response (14% of scored content) 
 • Domain 2: Security Logging and Monitoring (18% of scored content) 
